@@ -69,7 +69,6 @@ class Helper
 
         }
 
-        $answers[1] = $answers[0];
         return $answers;
     }
 
